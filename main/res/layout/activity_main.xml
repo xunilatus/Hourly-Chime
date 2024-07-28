@@ -1,0 +1,292 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:soundEffectsEnabled="true"
+    android:splitMotionEvents="true"
+    android:textAlignment="center"
+    tools:context=".MainActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        tools:layout_editor_absoluteX="16dp"
+        tools:layout_editor_absoluteY="16dp">
+
+        <Switch
+            android:id="@+id/swt1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:switchTextAppearance="@style/TextAppearance.AppCompat.Body1"
+            android:text="12:00am"
+            android:textAlignment="center"
+            android:textStyle="bold"
+            tools:ignore="UseSwitchCompatOrMaterialXml" />
+
+        <Switch
+            android:id="@+id/swt2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:switchTextAppearance="@style/TextAppearance.AppCompat.Body1"
+            android:text="1:00am"
+            android:textAlignment="center"
+            android:textStyle="bold"
+            tools:ignore="UseSwitchCompatOrMaterialXml"/>
+
+        <Switch
+            android:id="@+id/swt3"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:switchTextAppearance="@style/TextAppearance.AppCompat.Body1"
+            android:text="2:00am"
+            android:textAlignment="center"
+            android:textStyle="bold"
+            tools:ignore="UseSwitchCompatOrMaterialXml"/>
+
+        <Switch
+            android:id="@+id/swt4"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:switchTextAppearance="@style/TextAppearance.AppCompat.Body1"
+            android:text="3:00am"
+            android:textAlignment="center"
+            android:textStyle="bold"
+            tools:ignore="UseSwitchCompatOrMaterialXml"/>
+
+        <Switch
+            android:id="@+id/swt5"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:switchTextAppearance="@style/TextAppearance.AppCompat.Body1"
+            android:text="4:00am"
+            android:textAlignment="center"
+            android:textStyle="bold"
+            tools:ignore="UseSwitchCompatOrMaterialXml"/>
+
+        <Switch
+            android:id="@+id/swt6"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:switchTextAppearance="@style/TextAppearance.AppCompat.Body1"
+            android:text="5:00am"
+            android:textAlignment="center"
+            android:textStyle="bold"
+            tools:ignore="UseSwitchCompatOrMaterialXml"/>
+
+        <Switch
+            android:id="@+id/swt7"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:switchTextAppearance="@style/TextAppearance.AppCompat.Body1"
+            android:text="6:00am"
+            android:textAlignment="center"
+            android:textStyle="bold"
+            tools:ignore="UseSwitchCompatOrMaterialXml"/>
+
+        <Switch
+            android:id="@+id/swt8"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:switchTextAppearance="@style/TextAppearance.AppCompat.Body1"
+            android:text="7:00am"
+            android:textAlignment="center"
+            android:textStyle="bold"
+            tools:ignore="UseSwitchCompatOrMaterialXml"/>
+
+        <Switch
+            android:id="@+id/swt9"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:switchTextAppearance="@style/TextAppearance.AppCompat.Body1"
+            android:text="8:00am"
+            android:textAlignment="center"
+            android:textStyle="bold"
+            tools:ignore="UseSwitchCompatOrMaterialXml"/>
+
+        <Switch
+            android:id="@+id/swt10"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:switchTextAppearance="@style/TextAppearance.AppCompat.Body1"
+            android:text="9:00am"
+            android:textAlignment="center"
+            android:textStyle="bold"
+            tools:ignore="UseSwitchCompatOrMaterialXml"/>
+
+        <Switch
+            android:id="@+id/swt11"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:switchTextAppearance="@style/TextAppearance.AppCompat.Body1"
+            android:text="10:00am"
+            android:textAlignment="center"
+            android:textStyle="bold"
+            tools:ignore="UseSwitchCompatOrMaterialXml"/>
+
+        <Switch
+            android:id="@+id/swt12"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:switchTextAppearance="@style/TextAppearance.AppCompat.Body1"
+            android:text="11:00am"
+            android:textAlignment="center"
+            android:textStyle="bold"
+            tools:ignore="UseSwitchCompatOrMaterialXml"/>
+
+        <Switch
+            android:id="@+id/swt13"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:switchTextAppearance="@style/TextAppearance.AppCompat.Body1"
+            android:text="12:00pm"
+            android:textAlignment="center"
+            android:textStyle="bold"
+            tools:ignore="UseSwitchCompatOrMaterialXml"/>
+
+        <Switch
+            android:id="@+id/swt14"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:switchTextAppearance="@style/TextAppearance.AppCompat.Body1"
+            android:text="1:00pm"
+            android:textAlignment="center"
+            android:textStyle="bold"
+            tools:ignore="UseSwitchCompatOrMaterialXml"/>
+
+        <Switch
+            android:id="@+id/swt15"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:switchTextAppearance="@style/TextAppearance.AppCompat.Body1"
+            android:text="2:00pm"
+            android:textAlignment="center"
+            android:textStyle="bold"
+            tools:ignore="UseSwitchCompatOrMaterialXml"/>
+
+        <Switch
+            android:id="@+id/swt16"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:switchTextAppearance="@style/TextAppearance.AppCompat.Body1"
+            android:text="3:00pm"
+            android:textAlignment="center"
+            android:textStyle="bold"
+            tools:ignore="UseSwitchCompatOrMaterialXml"/>
+
+        <Switch
+            android:id="@+id/swt17"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:switchTextAppearance="@style/TextAppearance.AppCompat.Body1"
+            android:text="4:00pm"
+            android:textAlignment="center"
+            android:textStyle="bold"
+            tools:ignore="UseSwitchCompatOrMaterialXml"/>
+
+        <Switch
+            android:id="@+id/swt18"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:switchTextAppearance="@style/TextAppearance.AppCompat.Body1"
+            android:text="5:00pm"
+            android:textAlignment="center"
+            android:textStyle="bold"
+            tools:ignore="UseSwitchCompatOrMaterialXml"/>
+
+        <Switch
+            android:id="@+id/swt19"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:switchTextAppearance="@style/TextAppearance.AppCompat.Body1"
+            android:text="6:00pm"
+            android:textAlignment="center"
+            android:textStyle="bold"
+            tools:ignore="UseSwitchCompatOrMaterialXml"/>
+
+        <Switch
+            android:id="@+id/swt20"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:switchTextAppearance="@style/TextAppearance.AppCompat.Body1"
+            android:text="7:00pm"
+            android:textAlignment="center"
+            android:textStyle="bold"
+            tools:ignore="UseSwitchCompatOrMaterialXml"/>
+
+        <Switch
+            android:id="@+id/swt21"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:switchTextAppearance="@style/TextAppearance.AppCompat.Body1"
+            android:text="8:00pm"
+            android:textAlignment="center"
+            android:textStyle="bold"
+            tools:ignore="UseSwitchCompatOrMaterialXml"/>
+
+        <Switch
+            android:id="@+id/swt22"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:switchTextAppearance="@style/TextAppearance.AppCompat.Body1"
+            android:text="9:00pm"
+            android:textAlignment="center"
+            android:textStyle="bold"
+            tools:ignore="UseSwitchCompatOrMaterialXml"/>
+
+        <Switch
+            android:id="@+id/swt23"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:switchTextAppearance="@style/TextAppearance.AppCompat.Body1"
+            android:text="10:00pm"
+            android:textAlignment="center"
+            android:textStyle="bold"
+            tools:ignore="UseSwitchCompatOrMaterialXml"/>
+
+        <Switch
+            android:id="@+id/swt24"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:switchTextAppearance="@style/TextAppearance.AppCompat.Body1"
+            android:text="11:00pm"
+            android:textAlignment="center"
+            android:textStyle="bold"
+            tools:ignore="UseSwitchCompatOrMaterialXml"/>
+
+        <Button
+            android:id="@+id/btnTurnAllOn"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="All On"/>
+
+        <Button
+            android:id="@+id/btnTurnAllOff"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="All Off"/>
+
+        <Button
+            android:id="@+id/btnSound"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="Sound"/>
+
+        <Button
+            android:id="@+id/test1"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="Test"/>
+
+        <TextView
+            android:id="@+id/textView"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/text" />
+
+
+    </LinearLayout>
+</ScrollView>

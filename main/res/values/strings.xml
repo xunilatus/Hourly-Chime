@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Hourly Chime</string>
+    <string name="text">1)You have to seperately access the app settings from \n Settings>Apps>HourlyChime> Battery "unrestricted" / Notification Sounds "pick sound".  \n 2)Select the hours you want to be notified \n 3)You can run a 30 second test to make sure your settings are correct.</string>
+</resources>
